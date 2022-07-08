@@ -6,7 +6,7 @@ To say that I'm a big fan of minimalism and the reason why I recently decide to 
 
 (Btw, did I mention that I do like `vim`? 😁)
 
-I do use Windows tho. I still can't live without it because of work and sometimes for gaming (even tho I play dota in linux)
+I do use Windows tho. I still can't live without it because of work and sometimes for gaming _(even tho I play dota in linux)_
 
 Discovering **AHK** was a total bliss. I can script my way out of any repetitive tasks such as running my environment (websites opening, log in,...) I can even remap keys to optimise my workflow.
 
@@ -25,5 +25,5 @@ LShift::RAlt
 ^!u::{
 ^!i::}
 ```
-
+My full script is available in the `ahk_script` folder.
 
